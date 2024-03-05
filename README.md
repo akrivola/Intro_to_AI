@@ -4,5 +4,4 @@
 ---
 ## Содержание:
 
-1. Домашнее задание к Семинару 1
-[I'm a relative reference to a repository file](../master/Seminar_1/Task_1.md) 
+1. [Домашнее задание к Семинару 1](../master/Seminar_1/Task_1.md) 
