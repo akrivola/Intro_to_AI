@@ -12,7 +12,8 @@ _Криволапов Антон_
 |:-:|:-|:-:|:-:|:-:|:-:|:-:|
 | 1 | Learning rate=0.03 Activation=Tanh Regularization=None Regularization rate=0| $x_1^2$, $x_2^2$ | 1 слой, 1 нейрон| 6-7 эпох| Круг (овал) | 
 ||Activation
+![](img_1.png) |![](img.png)
 
 ### Набор / Результат :
 ## 1
-![img.png](img_1.png)
+![img.png](img_1.png)![img.png](img.png)
